@@ -8,7 +8,12 @@ package Students.service;
 import Students.Location;
 import java.sql.Date;
 import java.sql.Time;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -170,61 +175,130 @@ public class LocationFacadeREST extends AbstractFacade<Location> {
         q.setParameter("firstname", firstname);
         return q.getResultList();
     }    
-    
+   
+//     statistical
     @GET
-    @Path("Test/{sdata}/{edata}")
-//    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-    public String Test(@PathParam("sdata") Date sdata , @PathParam ("edata") Date edata) {
-        Query q =  em.createQuery("SELECT l FROM Location l WHERE l.data <= :edata AND l.data >= :sdata   ") ;
+    @Path("StatisticalStuPalceTime/{sdata}/{edata}/{lstuId}")
+//    @Produces({MediaType.APPLICATION_XML})
+    public String StatisticalStuPalceTime(@PathParam("sdata")  Date sdata, @PathParam("edata")  Date edata, @PathParam("lstuId")  Integer lstuId) {
+        TypedQuery<Location>q = (TypedQuery<Location>) em.createQuery( "SELECT l FROM Location l  WHERE l.data >= :sdata AND  l.data <= :edata AND l.lstuId = :lstuId" );
         q.setParameter("sdata", sdata);
         q.setParameter("edata", edata);
-        System.out.println(q.getResultList().toString()) ;
-        return q.getResultList().toString();
-    } 
-    
-      public  List  TesT() {
-        Query q =  em.createQuery("SELECT l FROM Location l WHERE l.data <= :edata AND l.data >= :sdata   ") ;
-        q.setParameter("sdata", "2018-01-10");
-        q.setParameter("edata", "2019-01-01");
-        return q.getResultList();
+        q.setParameter("lstuId", lstuId);
+        StringBuilder stringBuilder = new StringBuilder();
+        List<Location>  results = q.getResultList();
+        Map<String, Integer> map = new HashMap<String, Integer>() ;
+        map.clear();
+        for (Location result : results) {
+            String place_ = result.getPlace();
+            if (map.containsKey(place_) == false){
+                map.put(place_,  1 ) ;
+            }
+            else{
+                 Integer value = map.get(place_) + 1;
+                 map.put(place_,  value+1 ) ; 
+            }
         }
+        for (String key: map.keySet()){
+             stringBuilder.append(key);
+             stringBuilder.append(" : ");
+             Integer value = map.get(key);
+             stringBuilder.append(value.toString());
+        }        
+        return stringBuilder.toString();
+    }
     
-//    @GET
-//    @Path("Test2")
+    @GET
+    @Path("GetNearestByStuIdAndCurLatitudeAndLongitude/{latitude}/{longitude}/{lstuId}")
 //    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-//    public List<Location> Test2() {
-//         Query q =  em.createQuery("SELECT l FROM Location l WHERE l.data < ") ;
-//         List<Object[]> result = q.getResultList();
-//         System.out.println(q.getResultList()) ;
-//         Query q2 = em.createQuery("SELECT l FROM Location l");
-//           
-//        
-//        return q2.getResultList();
-//    } 
-//    
-    // statistical
-//    @GET
-//    @Path("StatisticalStuPalceTime/{sdata}/{edata}/{stuld}")
-//    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-//    public List<Location> StatisticalStuPalceTime(@PathParam("sdata") Date sdata , @PathParam ("edata") Date edata, @PathParam("stuld") Integer stuld ) {
-//        String query = "SELECT l FROM Location l WHERE l.stuld = :stuld " ;
-////        GROUP BY l.place HAVING COUNT(l.place)
-//        TypedQuery<Location>q = (TypedQuery<Location>) em.createQuery(query);
-//        q.setParameter("sdata", sdata);
-//        q.setParameter("edata", edata);
-//        q.setParameter("stuld", stuld);
-//        
-//        List<Location> list = q.getResultList();
-//        
-//        for (Location L : list){
-//            
-//            System.out.println(L);
-//            
+    public String GetNearestByStuIdAndCurLatitudeAndLongitude(@PathParam("lstuId")  Integer lstuId ,@PathParam("longitude")  Integer longitude ,@PathParam("latitude")  Integer latitude) {
+        TypedQuery<Location>q = (TypedQuery<Location>) em.createQuery( "SELECT l FROM Location l, StudentProfile s WHERE l.lstuId = s.id AND l.status = true "  );
+//        StringBuilder stringBuilder = new StringBuilder();
+        List<Location> results  = q.getResultList();
+        Integer counts = results.size();
+        // to store (latitude1, longitude1 , id , dis)
+        Integer dis_array[][];
+        dis_array = new Integer[counts+10][4];
+        Integer cnt = 0;
+        Map<Integer , String> map = new HashMap<Integer, String>();
+        map.clear();
+       
+        for (Location result: results){
+            dis_array[cnt][0] = result.getLatitude();
+            dis_array[cnt][1] = result.getLongitude();
+            dis_array[cnt][2] = result.getLstuId();
+//            <name : firstnameSurname> 
+//              map<id : name>
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.append(result.getStuId().getFirstname());
+            stringBuilder.append(result.getStuId().getSurname()); 
+            try{
+                map.put(dis_array[cnt][2] , stringBuilder.toString()) ;
+            } catch (Exception e) {
+                return "error1";
+            } 
+                dis_array[cnt][3] = 0;
+                cnt = cnt + 1;
+        }
+         // cal distance
+         
+        for(int i = 0 ; i < counts; ++i ){
+            if(dis_array[i][2] == lstuId) {
+                continue;
+            }
+            dis_array[i][3] = (dis_array[i][0] - latitude) *(dis_array[i][0] - latitude) + (dis_array[i][1] - longitude)*(dis_array[i][1] - longitude) ;
+        }
+        //sort by distance
+//        try{
+//        Arrays.sort(dis_array , new Comparator<Integer[]>() {
+//			
+//                        //arguments to this method represent the arrays to be sorted   
+//			public dddint compare(Integer[] o1, Integer[] o2) {
+//                                //get the item ids which are at index 0 of the array
+//				return o1[3].compareTo(o2[3]);
+//			}
+//                            });    } 
+//        catch (Exception e){
+//                    return "error sort";
+//         }
+        
+//        try {          
+//        Arrays.sort(dis_array, (a, b) -> Integer.compare(a[3], b[3]));
+//        } catch( Exception e) {
+//            return "error2" ;
 //        }
-//        return q.getResultList();
-//    }
-    
-
+        // print ans : long , lat,  name
+         StringBuilder ans = new StringBuilder();
+        for (int i=0 ; i < counts; ++i){
+            if ( dis_array[i][2] == lstuId ){
+                continue;
+            }
+            
+            ans.append("Latitude : ");
+            ans.append(dis_array[i][0].toString());
+            ans.append(" Longitude :");
+            ans.append(dis_array[i][1].toString());
+            ans.append(" Name : ");
+            try{
+                ans.append(map.get(dis_array[i][2]).toString());
+                ans.append(" ");
+            } catch (Exception e){
+                return "error3"; 
+            }
+        }
+        
+//       1 .longtide and latitude to cal dis ,  
+//       2. sort by dis
+//       3. print lat and log and name by the id 
+//               1. map<id , name>
+//                2. Array(id , Latitude , Longitude) 
+//                  3 result(dis, id) = cmp(latitude1, longitude1,  lat,log)) id != given_id
+//                     4. sort(result(dis,id) by dis) 
+//                          5 print
+        return ans.toString();
+//            return "true" ;
+// 
+    }
     
     @Override
     protected EntityManager getEntityManager() {
