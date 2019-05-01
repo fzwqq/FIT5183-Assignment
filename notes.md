@@ -67,6 +67,8 @@
 
   ![image-20190404191206321](/Users/analysis.jinger/Library/Application%20Support/typora-user-images/image-20190404191206321.png)
 
+  ![icpc](https://ws2.sinaimg.cn/large/006tNc79gy1g1v454nd80j30u0140n2j.jpg)
+
 ---
 
 ### Task-1
@@ -630,4 +632,8 @@ SQL 语法
   * ALTER TABLE FRIENDSHIP DROP COLUMN EDGEID
 * 删除行
   * DELETE FROM table Where columname = '?'
+
+
+
+---
 
