@@ -1,5 +1,6 @@
 package com.example.assofandroid;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -8,7 +9,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.google.gson.Gson;
 
@@ -44,8 +48,21 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//        显示电影图片
         image_view = (ImageView) findViewById(R.id.image_view);
+//      跳转到地图活动
+        Button button1 = (Button) findViewById(R.id.Google_Map);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(MainActivity.this,"you clickd google maps button",
+                        Toast.LENGTH_SHORT).show();
+                Intent intent =  new Intent(MainActivity.this, MapsActivity.class);
+                startActivity(intent);
+            }
+        });
         handler = new Handler();
+
 //        image_view.setImageResource(R.drawable.ic_launcher_foreground);
 
 //        Toolbar toolbar = findViewById(R.id.toolbar);
