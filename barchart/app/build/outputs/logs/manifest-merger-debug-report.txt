@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d811db6b2c480d00bf11d1028b5b52f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b127c421993e1603d1d84272e397d15/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7fb8f54167fc2c0bf6f345d2f6cda159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c81940a45342d55a9dc541a7da1eb490/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d4eb4220bc2ef2b825779c30fa93e61d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3fe142f2c2edb735846ad74d1527a34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15a82907b150f00b24ff6bb7593269d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d98a2f30d678a049747d65937845faad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a6704c43813e4b593eaed6f36ecb1455/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c0b321b79c5c3ee2b21e5872487511fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8aadd1618d8cf4871fb13a936aef38c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dd295a88253dd523e74694849b1a9ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/466fe9506e65e113eb5c9b9c0c34fba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/acbfd8796e86fab16419d294c2ce890a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d4055dbd3199598b71947bd2878722f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/718aef8264753aad388ebc3d734f889d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a568a277748ecb4d393e203aeffbdbf6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3976200d01c109f665ab5b98365a9bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/84b5f2164d6effa41829dca6932808da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af9a09646fae19bf8abe081cbb159012/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e2210c69199b2960add733e1e5e56ece/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/62306d2546664c8581a8cd6e85358b2b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c89b6f9b161842747f227016a37ecafd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dd226a3400dad6ac682c0748b46a2b81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/375546c6729e59370ad538e4376f5f28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6d6438fb9c764f7c5eb1800ecd52dde3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b127c421993e1603d1d84272e397d15/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b127c421993e1603d1d84272e397d15/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/718aef8264753aad388ebc3d734f889d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/718aef8264753aad388ebc3d734f889d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.barchart.MainActivity
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d811db6b2c480d00bf11d1028b5b52f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d811db6b2c480d00bf11d1028b5b52f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b127c421993e1603d1d84272e397d15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5b127c421993e1603d1d84272e397d15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7fb8f54167fc2c0bf6f345d2f6cda159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/7fb8f54167fc2c0bf6f345d2f6cda159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c81940a45342d55a9dc541a7da1eb490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c81940a45342d55a9dc541a7da1eb490/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d4eb4220bc2ef2b825779c30fa93e61d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d4eb4220bc2ef2b825779c30fa93e61d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3fe142f2c2edb735846ad74d1527a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3fe142f2c2edb735846ad74d1527a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15a82907b150f00b24ff6bb7593269d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15a82907b150f00b24ff6bb7593269d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d98a2f30d678a049747d65937845faad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d98a2f30d678a049747d65937845faad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a6704c43813e4b593eaed6f36ecb1455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a6704c43813e4b593eaed6f36ecb1455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c0b321b79c5c3ee2b21e5872487511fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c0b321b79c5c3ee2b21e5872487511fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8aadd1618d8cf4871fb13a936aef38c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8aadd1618d8cf4871fb13a936aef38c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dd295a88253dd523e74694849b1a9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dd295a88253dd523e74694849b1a9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/466fe9506e65e113eb5c9b9c0c34fba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/466fe9506e65e113eb5c9b9c0c34fba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/acbfd8796e86fab16419d294c2ce890a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/acbfd8796e86fab16419d294c2ce890a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d4055dbd3199598b71947bd2878722f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d4055dbd3199598b71947bd2878722f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cd97f9531c4815beb30a847848162ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/718aef8264753aad388ebc3d734f889d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/718aef8264753aad388ebc3d734f889d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a568a277748ecb4d393e203aeffbdbf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a568a277748ecb4d393e203aeffbdbf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3976200d01c109f665ab5b98365a9bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3976200d01c109f665ab5b98365a9bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/84b5f2164d6effa41829dca6932808da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/84b5f2164d6effa41829dca6932808da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af9a09646fae19bf8abe081cbb159012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af9a09646fae19bf8abe081cbb159012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e2210c69199b2960add733e1e5e56ece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e2210c69199b2960add733e1e5e56ece/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/62306d2546664c8581a8cd6e85358b2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/62306d2546664c8581a8cd6e85358b2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c89b6f9b161842747f227016a37ecafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c89b6f9b161842747f227016a37ecafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dd226a3400dad6ac682c0748b46a2b81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dd226a3400dad6ac682c0748b46a2b81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/375546c6729e59370ad538e4376f5f28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/375546c6729e59370ad538e4376f5f28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6d6438fb9c764f7c5eb1800ecd52dde3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/analysis.jinger/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6d6438fb9c764f7c5eb1800ecd52dde3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/analysis.jinger/GitHub/barchart/app/src/main/AndroidManifest.xml
