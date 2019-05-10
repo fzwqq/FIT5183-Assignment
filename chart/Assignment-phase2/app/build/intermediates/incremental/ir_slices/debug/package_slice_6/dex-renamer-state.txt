@@ -1,0 +1,4 @@
+#Mon May 06 18:22:53 CST 2019
+base.0=/Users/analysis.jinger/GitHub/Assignments/FIT5183-Assignment-Phase1/Assignment-phase2/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
