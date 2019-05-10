@@ -1,0 +1,7 @@
+#Thu May 09 22:14:56 CST 2019
+base.0=D\:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1af5b6b37903837080850d1f2f9e2eba6a541a64
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_68596dd4f4120f77dea196398c69b0f4046267ff\\classes.dex
+base.1=D\:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_68596dd4f4120f77dea196398c69b0f4046267ff
+file.0=D\:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1af5b6b37903837080850d1f2f9e2eba6a541a64\\classes.dex

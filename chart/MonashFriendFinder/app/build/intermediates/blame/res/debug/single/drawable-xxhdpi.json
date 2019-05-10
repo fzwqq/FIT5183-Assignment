@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\image_sun.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xxhdpi\\image_sun.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xxhdpi\\switch_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\image_cloudy.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xxhdpi\\image_cloudy.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xxhdpi\\switch_on.png"
+    }
+]

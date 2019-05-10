@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\VincentLi\\.android\\build-cache\\f03c9496d7c79871ae347b8687b25cf02dcbebb4\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 52,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\VincentLi\\.android\\build-cache\\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 46,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\VincentLi\\.android\\build-cache\\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 46,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 44,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\VincentLi\\.android\\build-cache\\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 44,
+                        "endOffset": 195
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\community_icon_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\community_icon_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\send.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\me_icon_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\me_icon_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\group.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\group.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash3.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\splash3.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_pressed.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\star.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\getmoney.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\getmoney.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\task.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\task.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gift_m.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\gift_m.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_icon_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\message_icon_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gusetempty.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\gusetempty.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialog_loading_bg.9.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\dialog_loading_bg.9.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\message.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\switch_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\liaota_gray.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\liaota_gray.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\voice_m.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\voice_m.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bgdiy.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\bgdiy.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_take_pic.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_take_pic.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zan.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\zan.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\liaota.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\liaota.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\start.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\start.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\month6.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\month6.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart60.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart60.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rightward_32.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\rightward_32.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\month3.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\month3.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\namecolor.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\namecolor.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_card_normal.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\icon_card_normal.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_normal.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_location.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_location.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fake_3.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\fake_3.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gift_empty.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\gift_empty.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\blue.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\buy.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\buy.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\love_red.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\love_red.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chanceup.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\chanceup.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\love_icon_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\love_icon_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pinglun.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\pinglun.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emotion_empty.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\emotion_empty.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\clockin.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\clockin.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rightward_26.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\rightward_26.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash2.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\splash2.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart2.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart2.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expand_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\expand_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_card_press.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\icon_card_press.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\me_icon_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\me_icon_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\vip.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\vip.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b2.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\b2.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\switch_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cover.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cover.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_version.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_version.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tequan.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\tequan.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cancel.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\love_icon_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\love_icon_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\good_icon.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\good_icon.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cross.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cross.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_shadow.9.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\left_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\coin.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\coin.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\love.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\love.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b3.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\b3.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yuan_60.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\yuan_60.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\send_gray.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\send_gray.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\point.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\point.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yuan_30.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\yuan_30.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_m.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\pic_m.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fake_1.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\fake_1.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart1.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart1.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\month1.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\month1.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_mission.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\new_mission.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\video.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\notice.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\notice.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\money.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\money.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\merchants_service_comment_edit_bg.9.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\merchants_service_comment_edit_bg.9.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\month12.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\month12.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_group_emo.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_group_emo.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fake_2.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\fake_2.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yuan_12.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\yuan_12.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yuan_108.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\yuan_108.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heart3.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\heart3.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notification.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wheel.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\wheel.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\guest.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\guest.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\location.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\down_btn.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\down_btn.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expand_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\expand_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comment_icon.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\comment_icon.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash1.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\splash1.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\pic.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cameraline.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cameraline.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weiguan.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\weiguan.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\accept.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\accept.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b1.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\b1.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fake_4.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\fake_4.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialog_green.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\dialog_green.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\community_icon_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\community_icon_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expression_off.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\expression_off.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pointup.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\pointup.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b4.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\b4.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pink.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\pink.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dialog_white.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\dialog_white.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_chat_del.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_chat_del.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expression_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\expression_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bulb.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\bulb.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\selected.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cmd_call_phone.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\cmd_call_phone.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_icon_on.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\message_icon_on.png"
+    },
+    {
+        "merged": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_with_plus.png",
+        "source": "D:\\Su\\version_20190509_latest\\MonashFriendFinder\\app\\src\\main\\res\\drawable-xhdpi\\camera_with_plus.png"
+    }
+]

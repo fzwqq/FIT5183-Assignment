@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:6:5-34:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\321795b363dabf5ef8eaeed55358af859ae3df50\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\b9751df66d8e2ad0099054e68aba60bce398211b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.1] C:\Users\VincentLi\.android\build-cache\101a5510d0600e90ffb05e85b4dc4c92bc1b93d3\output\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\VincentLi\.android\build-cache\f03c9496d7c79871ae347b8687b25cf02dcbebb4\output\AndroidManifest.xml:13:5-20
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\VincentLi\.android\build-cache\6b5ec368f7e88f7d66406a85ce4571ef7b7acc1e\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:14:5-18:19
+MERGED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:11:5-17:19
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:14:5-26:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:13:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\a9faf8b7cedaecdd70d2c8c26068d64f4c95aefc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\e90f2a18a0b2a537005f673644904817a964a779\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\0036bd3026df929c512bbb8d3ae50433475ab0ca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5ebe6a881e815c84809ab042e082f8c7855e43c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\f742f5b92ebfd917c345b85e60618a08081d7d86\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\60d885040f7c2530cd1957d6134bdf3aaf263e22\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\91a1ed8ddc2d9da925616e5b04cb63fc2efd9a71\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1e9f2cd96e541215cfef294da428eca4dbf55a8e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5716d4b02aa555e2149bee75e5f270605265d802\output\AndroidManifest.xml:29:5-20
+MERGED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:13:5-33:19
+	android:label
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:10:9-35
+	android:vmSafeMode
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:13:18-43
+	android:allowBackup
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:8:9-38
+	android:theme
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.monashfriendfinder.MainActivity
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.monashfriendfinder.friends.FriendDetailActivity
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:15:19-63
+activity#com.monashfriendfinder.Login
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:17:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.monashfriendfinder.EditActivity
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.monashfriendfinder.Register
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:26:19-43
+activity#com.monashfriendfinder.RegisterImproveInfo
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:28:19-54
+activity#com.monashfriendfinder.discover.MatchFriendList
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:30:19-59
+activity#com.monashfriendfinder.discover.MatchFriendDetailActivity
+ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:32:19-69
+uses-sdk
+INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\321795b363dabf5ef8eaeed55358af859ae3df50\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\b9751df66d8e2ad0099054e68aba60bce398211b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\VincentLi\.android\build-cache\bf81fc24f2217815944407c586548973648b619c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.w446108264:AndroidEmoji:1.3-withsource] C:\Users\VincentLi\.android\build-cache\6d658be2b2fa3a7216f783bd7dc6966b27421aec\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.w446108264:XhsEmoticonsKeyboard:2.0.4] C:\Users\VincentLi\.android\build-cache\3cd2260e560b671b59bf360f88fe5297edd0ab39\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.1] C:\Users\VincentLi\.android\build-cache\101a5510d0600e90ffb05e85b4dc4c92bc1b93d3\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.1] C:\Users\VincentLi\.android\build-cache\f03c9496d7c79871ae347b8687b25cf02dcbebb4\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1410ce285d4ef8bc764713b8212bf4621fa52eac\output\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\VincentLi\.android\build-cache\7b4bdc50d1f3b5ab0ff0c444932dae8ff5477c92\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.edmodo:cropper:1.0.1] C:\Users\VincentLi\.android\build-cache\f7877f416a1ad230a3b4bf73d764a18b35e204bf\output\AndroidManifest.xml:7:5-9:41
+MERGED from [top.zibin:Luban:1.0.9] C:\Users\VincentLi\.android\build-cache\2183e55a485671861290e1af29587e0a7fba27d0\output\AndroidManifest.xml:7:5-9:41
+MERGED from [id.zelory:compressor:1.0.4] C:\Users\VincentLi\.android\build-cache\dde519688f2cb40a6478905a90bd35aad36861d9\output\AndroidManifest.xml:8:5-10:41
+MERGED from [org.litepal.android:core:1.5.1] C:\Users\VincentLi\.android\build-cache\6b5ec368f7e88f7d66406a85ce4571ef7b7acc1e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.7.0] C:\Users\VincentLi\.android\build-cache\0c6f94eda2eb68a44fc542af50294ae960485a81\output\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] C:\Users\VincentLi\.android\build-cache\724c3b28c2f2512fabfbc1abacd59e60a3c19265\output\AndroidManifest.xml:6:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.0.1] C:\Users\VincentLi\.android\build-cache\1e186cc1e2a2330b5edc6d6d750a211ca25507b9\output\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.0.1] C:\Users\VincentLi\.android\build-cache\a57f9a6527f97074c6caef0c7abc987e32d6e1b9\output\AndroidManifest.xml:17:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\VincentLi\.android\build-cache\b8db6c63478a86e19a08047da572492a2da3b7b5\output\AndroidManifest.xml:19:5-43
+MERGED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] C:\Users\VincentLi\.android\build-cache\3ad2d3ff410ee31f6610e6b61bc42c91c7287f73\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\a9faf8b7cedaecdd70d2c8c26068d64f4c95aefc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\e90f2a18a0b2a537005f673644904817a964a779\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\0036bd3026df929c512bbb8d3ae50433475ab0ca\output\AndroidManifest.xml:20:5-44
+MERGED from [me.shaohui.advancedluban:library:1.3.2] C:\Users\VincentLi\.android\build-cache\3822b32acfe1c15ae425e4ad586e8e749d94b061\output\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\VincentLi\.android\build-cache\8b59ab187a98140a57da5970c3c52cdf5232ede3\output\AndroidManifest.xml:19:5-43
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] C:\Users\VincentLi\.android\build-cache\8d49abf4bed0aa5d1ed089db3998f4ef207a1617\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5ebe6a881e815c84809ab042e082f8c7855e43c2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\f742f5b92ebfd917c345b85e60618a08081d7d86\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\60d885040f7c2530cd1957d6134bdf3aaf263e22\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\91a1ed8ddc2d9da925616e5b04cb63fc2efd9a71\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1e9f2cd96e541215cfef294da428eca4dbf55a8e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5716d4b02aa555e2149bee75e5f270605265d802\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\321795b363dabf5ef8eaeed55358af859ae3df50\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\b9751df66d8e2ad0099054e68aba60bce398211b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1410ce285d4ef8bc764713b8212bf4621fa52eac\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\a9faf8b7cedaecdd70d2c8c26068d64f4c95aefc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\e90f2a18a0b2a537005f673644904817a964a779\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\0036bd3026df929c512bbb8d3ae50433475ab0ca\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5ebe6a881e815c84809ab042e082f8c7855e43c2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\f742f5b92ebfd917c345b85e60618a08081d7d86\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\60d885040f7c2530cd1957d6134bdf3aaf263e22\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\91a1ed8ddc2d9da925616e5b04cb63fc2efd9a71\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1e9f2cd96e541215cfef294da428eca4dbf55a8e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\5716d4b02aa555e2149bee75e5f270605265d802\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\VincentLi\.android\build-cache\1fa7ed8c418520f60470bfe489d340544460a139\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:11:5-80
+IMPLIED from D:\Su\version_20190509_latest\MonashFriendFinder\app\src\main\AndroidManifest.xml:2:1-36:12 reason: me.nereo.multi_image_selector requested WRITE_EXTERNAL_STORAGE
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:12:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:12:22-78
+activity#me.nereo.multi_image_selector.MultiImageSelectorActivity
+ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:15:9-17:62
+	android:configChanges
+		ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from [com.github.lovetuzitong:MultiImageSelector:1.2] C:\Users\VincentLi\.android\build-cache\f2c02bc5c2dafd2d7eed0b422aabaa5f76cb7f61\output\AndroidManifest.xml:16:13-84
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.4.0] C:\Users\VincentLi\.android\build-cache\ff9fba4550a9d460392cda8af4f4fdf5d5e7da3c\output\AndroidManifest.xml:13:13-86
+uses-permission#android.permission.CAMERA
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:12:22-62
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:15:19-79
+provider#android.support.v4.content.FileProvider
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:17:9-25:20
+	android:authorities
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:19:13-64
+	android:grantUriPermissions
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:21:13-47
+	android:exported
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:18:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\VincentLi\.android\build-cache\2ea06aecd526a7a996e9ff5a0bbb22b486404afa\output\AndroidManifest.xml:23:17-67
+activity#com.darsh.multipleimageselect.activities.AlbumSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:17:13-88
+intent-filter#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:21:13-23:29
+category#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:22:27-73
+activity#com.darsh.multipleimageselect.activities.ImageSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\VincentLi\.android\build-cache\b3f7fc6c6e145456b736ae9eddf67986f204d7d9\output\AndroidManifest.xml:26:13-88
+activity#com.antfortune.freeline.MiddlewareActivity
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:14:9-16:52
+	android:screenOrientation
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:15:13-70
+service#com.antfortune.freeline.FreelineService
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:18:9-21:43
+	android:process
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:21:13-40
+	android:exported
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:19:13-67
+service#com.antfortune.freeline.FreelineService$InnerService
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:22:9-24:43
+	android:process
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:24:13-40
+	android:name
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:23:13-80
+receiver#com.antfortune.freeline.FreelineReceiver
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:26:19-74
+intent-filter#android.intent.action.FreelineReceiver+android.intent.category.DEFAULT
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.FreelineReceiver
+ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:28:17-81
+	android:name
+		ADDED from [com.antfortune.freeline:runtime:0.8.7] C:\Users\VincentLi\.android\build-cache\8819af6a9783d1addafb478e58fd3f462e1f5947\output\AndroidManifest.xml:28:25-78
